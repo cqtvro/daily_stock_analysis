@@ -44,3 +44,4 @@ dingtalk-stream >= 0.24.3    # 钉钉 Stream SDK
 discord.py>=2.0.0              # Discord 机器人开发库
 akshare>=1.12.90
 pandas>=2.0.0
+
